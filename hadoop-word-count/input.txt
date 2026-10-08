@@ -1,0 +1,4 @@
+hello hadoop
+hello world
+hadoop is big
+hadoop is powerful
